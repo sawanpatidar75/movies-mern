@@ -1,0 +1,38 @@
+[
+    {
+        "id": 7,
+        "movieName": "Blur",
+        "rating": 5,
+        "releasedDate": "2 January 2022"
+    },
+    {
+        "id": 8,
+        "movieName": "Blurr",
+        "rating": 5,
+        "releasedDate": "20 January 2022"
+    },
+    {
+        "id": 9,
+        "movieName": "Life Is Good",
+        "rating": 4,
+        "releasedDate": "20 January 2022"
+    },
+    {
+        "id": 10,
+        "movieName": "Life Is Good",
+        "rating": 4,
+        "releasedDate": "20 January 2022"
+    },
+    {
+        "id": 11,
+        "movieName": "Life Is Good",
+        "rating": 4,
+        "releasedDate": "20 January 2022"
+    },
+    {
+        "id": 12,
+        "movieName": "Life Is Good",
+        "rating": 4,
+        "releasedDate": "20 January 2022"
+    }
+]
